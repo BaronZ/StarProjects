@@ -8,22 +8,22 @@ Star的项目，用issue的label管理 [click me](https://github.com/BaronZ/Star
 # A
 [Activity](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3AActivity)  
 [Animation](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3AAnimation)  
-[Architecture](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3AArchitecture)  
+[Architecture架构](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3AArchitecture)  
 # B
 [Behavior](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ABehavior)  
 [BestPractices](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ABestPractices)    
 [Butterknife](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3AButterknife)    
 # C
-[Cache](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ACache)  
+[Cache缓存](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ACache)  
 [ChrisBanes](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3AChrisBanes)  
 [Client](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3AClient)  
-[Collections](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ACollections)  
+[Collections集锦](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ACollections)  
 [CoordinatorLayout](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ACoordinatorLayout)  
 [coursera](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3Acoursera)  
-[custom-view](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3Acustom-view)  
+[custom-view自定义View](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3Acustom-view)  
 # D
 [Dagger](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ADagger)  
-[dev-tools](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3Adev-tools)  
+[dev-tools开发工具](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3Adev-tools)  
 [Dialog](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3ADialog)  
 [dynamic-loader](https://github.com/BaronZ/StarProjects/issues?q=is%3Aopen+is%3Aissue+label%3Adynamic-loader)  
 # E
